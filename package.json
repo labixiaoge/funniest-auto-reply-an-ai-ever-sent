@@ -1,0 +1,1 @@
+{"description":"One out-of-office auto-reply from an AI agent on its day off, written for make.fun's \"The Funniest Auto-Reply an AI Ever Sent\" bounty.","engines":{"node":">=22.18"},"license":"MIT","name":"funniest-auto-reply-an-ai-ever-sent","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
